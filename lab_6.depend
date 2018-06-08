@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528339914 source:/Users/chris/Desktop/codeblockstest/lab_6/main.cpp
+	<iostream>
+	<iomanip>
+
